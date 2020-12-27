@@ -1,4 +1,4 @@
-# React Use Scroll Effects
+# React Use Smooth Scroll
 
 > React Provider Component to add a smooth scroll effect 😍
 
@@ -9,7 +9,7 @@ Live demo: [https://react-smooth-scroll-effect.netlify.app/](https://react-smoot
 ## Install
 
 ```bash
-npm install --save react-use-scroll-effects
+npm install --save react-use-smooth-scroll
 ```
 
 ## Usage
@@ -17,8 +17,8 @@ npm install --save react-use-scroll-effects
 ```jsx
 import React from 'react'
 
-import { UseEffectScroll } from 'react-use-scroll-effects'
-import 'react-use-scroll-effects/dist/index.css'
+import { UseEffectScroll } from 'react-use-smooth-scroll'
+import 'react-use-smooth-scroll/dist/index.css'
 
 const App = () => {
   return (

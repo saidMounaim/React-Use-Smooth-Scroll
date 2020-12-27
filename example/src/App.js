@@ -1,7 +1,7 @@
 import React from 'react'
 
-import { UseEffectScroll } from 'react-use-scroll-effects'
-import 'react-use-scroll-effects/dist/index.css'
+import { UseEffectScroll } from 'react-use-smooth-scroll'
+import 'react-use-smooth-scroll/dist/index.css'
 
 const App = () => {
   return (
